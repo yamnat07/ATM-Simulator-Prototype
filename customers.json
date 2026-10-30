@@ -1,0 +1,50 @@
+{
+    "1001234501": {
+        "name": "Aarav Sharma",
+        "card_number": "4000125678901201",
+        "pin": "4828",
+        "balance": 30430.75
+    },
+    "1001234502": {
+        "name": "Priya Verma",
+        "card_number": "4000125678901302",
+        "pin": "0376",
+        "balance": 3021.48
+    },
+    "1001234503": {
+        "name": "Rohan Mehta",
+        "card_number": "4000125678901403",
+        "pin": "7194",
+        "balance": 87512.2
+    },
+    "1001234504": {
+        "name": "Ananya Iyer",
+        "card_number": "4000125678901504",
+        "pin": "2650",
+        "balance": 10920.05
+    },
+    "1001234505": {
+        "name": "Vikram Singh",
+        "card_number": "4000125678901605",
+        "pin": "9033",
+        "balance": 150000.0
+    },
+    "1001234506": {
+        "name": "Sneha Patel",
+        "card_number": "4000125678901706",
+        "pin": "5518",
+        "balance": 62347.9
+    },
+    "1001234507": {
+        "name": "Karan Malhotra",
+        "card_number": "4000125678901807",
+        "pin": "1247",
+        "balance": 25000.0
+    },
+    "1001234508": {
+        "name": "Neha Gupta",
+        "card_number": "4000125678901908",
+        "pin": "8860",
+        "balance": 9815.35
+    }
+}
